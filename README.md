@@ -1,8 +1,6 @@
 # Memory game
 
 # Authors: Micha_Briskman
-</br>
-</br>
 
 In this exercise we made a memory game.</br>
 First you need to register, there is also an option of choosing the size of the board: </br>
